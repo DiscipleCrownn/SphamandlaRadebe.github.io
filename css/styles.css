@@ -430,8 +430,8 @@
 
         .section-title {
             font-family: 'Syne', sans-serif;
-            font-size: clamp(2.5rem, 5vw, 4rem);
-            font-weight: 800;
+            font-size: clamp(35px, 5vw, 4rem);
+            font-weight: 750;
             margin-bottom: 1rem;
             position: relative;
             display: inline-block;
